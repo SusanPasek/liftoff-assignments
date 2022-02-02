@@ -7,12 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app will list restaurants in St. Louis that offer vegetatian menu options. It will allow users to view the entire list of restaurants, filter the list, and sort the list alphabetically. It will also display a picture of the restarurant and the address. This will make it easier for vegetarians to find options in one easy to use place.
 ### Features
-Include Features here
+display list of restaruants with address and image. Sort by name and cusine type. Allow users to add restaurants 
+
 ### Technologies
-Include Technologies here
+C#, MySQL, ASP.net
+
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/5HtiRif0/liftoff
